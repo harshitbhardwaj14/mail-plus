@@ -68,24 +68,6 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Visit `http://localhost:3000` to see MailPlus in action! 🎉
-
-## **🛠️ Tech Stack**
-
-<div align="center">
-
-| Layer | Technology | Purpose |
-|-------|------------|---------|
-| **Framework** | Next.js 15 (App Router) | Full-stack React framework |
-| **Language** | TypeScript | Type safety & better DX |
-| **Auth** | NextAuth.js + Google OAuth | Secure authentication |
-| **Email API** | Gmail API | Email fetching & management |
-| **AI** | OpenAI GPT-4/3.5 | Email summarization |
-| **Styling** | Tailwind CSS + shadcn/ui | Modern UI components |
-| **Icons** | Lucide React | Beautiful icons |
-| **Deployment** | Vercel | Optimized hosting |
-
-</div>
 
 
 ## **🔧 Configuration**
